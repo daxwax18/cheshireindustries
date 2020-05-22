@@ -1,0 +1,15 @@
+ul{
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+a{
+    padding: 0px 0px 0px 25px;
+    color: black;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+}
